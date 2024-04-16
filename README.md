@@ -16,3 +16,6 @@ This project is a web-based implementation of the classic Tic-Tac-Toe game using
 React
 JavaScript (ES6+)
 HTML/CSS
+
+![example.jpg](https://github.com/Matilda-bit/tic-tac-toe/blob/main/src/assets/Screenshot%202024-04-16%20at%2021.11.51.png?raw=true)
+
