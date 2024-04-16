@@ -33,12 +33,14 @@ function App() {
       
         </ol>
         <GameBoard 
-        onSelectSquare={handleSelectSquare} 
-        turns={gameTurns} />
-        <Log />
-
+          onSelectSquare={handleSelectSquare} 
+          turns={gameTurns} 
+        />
+    
       </div>
-
+      <Log 
+          turns={gameTurns}
+        />
       coming soon...
       </main>
   )
